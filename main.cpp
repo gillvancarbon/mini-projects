@@ -6,7 +6,8 @@ int main(){
 	
 	string name;
 	int age;
-	
+
+	//asks the user for needed data
 	cout<<"Enter Name: ";
 	cin>>name;
 	cout<<"Enter Age: ";
