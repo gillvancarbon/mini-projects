@@ -12,7 +12,8 @@ int main(){
 	cin>>name;
 	cout<<"Enter Age: ";
 	cin>>age;
-	
+
+	//evalutes the users age if they're an adult or not
 	if ((age >= 18) && (age <=100)){
 		
 		cout<<"You're an adult."<<endl;
